@@ -15,13 +15,13 @@
 - Developer productivity.  Member of the church of emacs.  Trying to write better documentation.
 - Numerical programming.  Kalman filters, PDE solvers, stochastic processes etc.
 - Performance oriented programming.  For example low-latency schedulers,  some lockfree algos.
-- Integration with REPL tools.  Author of various DSLs,  more recently working with pybind11.
+- Integration with REPL tools.  Author of various scheme-based DSLs,  more recently working with pybind11.
 
 ## Projects
 - <a href="https://rconybea.github.io/web/sw/xo.html">XO</a>: a set of cooperating c++ libraries, with python bindings, for simuation and complex event processing.
-- <a href="https://github.com/rconybea/cmake-examples">cmake-examples</a>: progressive series cmake examples, starting from nothing.
-- docker-cpp-builder: example nix-built docker container for generic c++ builds
-- docker-nix-builder: nix-built docker container with nix available at build time
+- <a href="https://github.com/rconybea/cmake-examples">cmake-examples</a>: progressive series of cmake examples, starting from hello world.
+- <a href="https://github.com/rconybea/docker-cpp-builder">: example nix-built docker container for generic c++ builds
+- <a href="https://github.com/rconybea/docker-nix-builder">: nix-built docker container (with nix available at build time)
 - <a href="https://rconybea.github.io/web/env/cleanmbox.html">cleanmbox</a>: automatically tidy email
 
 ## Currently learning about
@@ -42,7 +42,7 @@
   - websockets
   - pybind11
 - once upon a time
-  - garbage collection algorithms
+  - garbage collection algorithms.
 
 <!--
 **Rconybea/rconybea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
