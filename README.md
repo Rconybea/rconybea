@@ -4,10 +4,12 @@
 - Trying to solve problems so that they "stay solved" -- though easier said than done!
 
 ## Links
-- <a href="https://rconybea.github.io/web">website</a>
-- <a href="https://www.linkedin.com/in/roland-conybeare-3640ab4" rel="noreferer">
+• <a href="https://rconybea.github.io/web">website</a>
+&nbsp;
+• <a href="https://www.linkedin.com/in/roland-conybeare-3640ab4" rel="noreferer">
    <img src="https://skillicons.dev/icons?i=linkedin" width="16px"> linkedin
   <a>
+•
 
 ## Areas of Interest
 - Developer productivity.  Member of the church of emacs.  Trying to write better documentation.
