@@ -6,7 +6,7 @@
 ## Links
 - <a href="https://rconybea.github.io/web">website</a>
 - <a href="https://www.linkedin.com/in/roland-conybeare-3640ab4" rel="noreferer">
-   <img src="https://skillicons.dev/icons?i=linkedin" width="20px"> linkedin
+   <img src="https://skillicons.dev/icons?i=linkedin" width="16px"> linkedin
   <a>
 
 ## Areas of Interest
@@ -20,6 +20,7 @@
 - cmake-examples: progressive series cmake examples, starting from nothing.
 - docker-cpp-builder: example nix-built docker container for generic c++ builds
 - docker-nix-builder: nix-built docker container with nix available at build time
+- <a href="https://rconybea.github.io/web/env/cleanmbox.html">cleanmbox</a>: automatically tidy email
 
 ## Currently learning about
 - 2024
