@@ -16,8 +16,8 @@
 - Integration with REPL tools.  Author of various DSLs,  more recently working with pybind11.
 
 ## Projects
-- XO: a set of cooperating c++ libraries, with python bindings, for simuation and complex event processing.
-- cmake-examples: progressive series cmake examples, starting from nothing.
+- <a href="https://rconybea.github.io/web/sw/xo.html">XO</a>: a set of cooperating c++ libraries, with python bindings, for simuation and complex event processing.
+- <a href="https://github.com/rconybea/cmake-examples">cmake-examples</a>: progressive series cmake examples, starting from nothing.
 - docker-cpp-builder: example nix-built docker container for generic c++ builds
 - docker-nix-builder: nix-built docker container with nix available at build time
 - <a href="https://rconybea.github.io/web/env/cleanmbox.html">cleanmbox</a>: automatically tidy email
