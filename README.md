@@ -5,8 +5,8 @@
 
 ## Areas of Interest
 - Developer productivity.  Member of the church of emacs.  Trying to write better documentation.
-- Numerical programming.  Have authored kalman filters, PDE solvers and such
-- Performance oriented programming.  Have authored low-latency schedulers,  some lockfree algos.
+- Numerical programming.  Kalman filters, PDE solvers, splines etc.
+- Performance oriented programming.  For example low-latency schedulers,  some lockfree algos.
 - Integration with REPL tools.  Author of various DSLs,  more recently working with pybind11.
 
 ## Currently learning about
