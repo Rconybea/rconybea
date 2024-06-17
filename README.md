@@ -1,7 +1,7 @@
 ## Hello,  Roland here 👋
-- I'm Roland Conybeare,  software developer engaged in continuous learning.
-- Several decades of experience in the financial industry, working in c++ / python
-- Trying to solve problems so that they "stay solved" -- though easier said than done!
+- I'm Roland Conybeare, a software developer engaged in continuous learning.
+- Several decades of experience in the financial industry, working mostly in c++
+- Trying to solve problems so that they "stay solved" -- easier said than done!
 
 ## Links
 • <a href="https://rconybea.github.io/web">website</a>
