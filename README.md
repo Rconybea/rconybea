@@ -25,10 +25,11 @@
    | <a href="https://github.com/Rconybea/xo-jit">xo-jit</a>                   | <a href="https://github.com/Rconybea/xo-pyjit">xo-pyjit</a>                  |          | LLVM jit             | llvm                |
    | <a href="https://github.com/Rconybea/xo-expression">xo-expression</a>     | <a href="https://github.com/Rconybea/xo-pyexpression">xo-pyexpression</a>    |          | AST impl             |                     |
    | <a href="https://github.com/Rconybea/xo-websock">xo-websock</a>           | <a href="https://github.com/Rconybea/xo-pwebsock">xo-pywebsock</a>           |          | websocket server     | websockets, jsoncpp |
-   | <a href="https://github.com/Rconybea/xo-kalmanfilter">xo-kalmanfilter</a> | <a href="https://github.com/Rconybea/xo-kalmanfilter">xo-pykalamnfilter</a>  |          | linear kalman filter |                     |
+   | <a href="https://github.com/Rconybea/xo-kalmanfilter">xo-kalmanfilter</a> | <a href="https://github.com/Rconybea/xo-kalmanfilter">xo-pykalamnfilter</a>  |          | linear kalman filter | eigen               |
    | <a href="https://github.com/Rconybea/xo-process">xo-process</a>           | <a href="https://github.com/Rconybea/xo-process">xo-pyprocess</a>            |          | stochastic processes |                     |
    | <a href="https://github.com/Rconybea/xo-reactor">xo-reactor</a>           | <a href="https://github.com/Rconybea/xo-reactor">xo-pyreactor</a>            |          | queueing system      |                     |
    | <a href="https://github.com/Rconybea/xo-reflect">xo-reflect</a>           | <a href="https://github.com/Rconybea/xo-pyreflect">xo-pyreflect</a>          |          | c++ reflection       |                     |
+   | <a href="https://github.com/Rconybea/xo-unit">xo-unit</a>                 | <a href="https://github.com/Rconybea/xo-pyunit">xo-pyunit</a>                |        Y | constexpr units      |                     |
    | <a href="https://github.com/Rconybea/xo-randomgen">xo-randomgen</a>       |                                                                              |        Y | xoshiro256** rng     |                     |
    | <a href="https://github.com/Rconybea/xo-flatstring">xo-flatstring</a>     |                                                                              |        Y | constexpr strings    |                     |
 
