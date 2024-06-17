@@ -19,6 +19,11 @@
 
 ## Projects
 - <a href="https://rconybea.github.io/web/sw/xo.html">XO</a>: a set of cooperating c++ libraries, with python bindings, for simuation and complex event processing.
+
+   | library                                                 | pybind                                                      | description         | dependencies        |
+   |---------------------------------------------------------|-------------------------------------------------------------|---------------------|---------------------|
+   | <a href="https://github.com/Rconybea/xo-jit">xo-jit</a> | <a href="https://github.com/Rconybea/xo-pyjit">xo-pyjit</a> | LLVM jit            | xo-expression, llvm |
+
 - <a href="https://github.com/rconybea/cmake-examples">cmake-examples</a>: progressive series of cmake examples, starting from hello world.
 - <a href="https://github.com/rconybea/docker-cpp-builder">docker-cpp-builder</a>: example nix-built docker container for generic c++ builds
 - <a href="https://github.com/rconybea/docker-nix-builder">docker-nix-builder</a>: example nix-built docker container (with nix made available at build time)
