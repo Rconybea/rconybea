@@ -20,9 +20,12 @@
 ## Projects
 - <a href="https://rconybea.github.io/web/sw/xo.html">XO</a>: a set of cooperating c++ libraries, with python bindings, for simuation and complex event processing.
 
-   | library                                                 | pybind                                                      | description         | dependencies        |
-   |---------------------------------------------------------|-------------------------------------------------------------|---------------------|---------------------|
-   | <a href="https://github.com/Rconybea/xo-jit">xo-jit</a> | <a href="https://github.com/Rconybea/xo-pyjit">xo-pyjit</a> | LLVM jit            | xo-expression, llvm |
+   | library                                                               | pybind                                                              | hdr-only | description         | dependencies              |
+   |-----------------------------------------------------------------------|---------------------------------------------------------------------|----------|---------------------|---------------------------|
+   | <a href="https://github.com/Rconybea/xo-jit">xo-jit</a>               | <a href="https://github.com/Rconybea/xo-pyjit">xo-pyjit</a>         |          | LLVM jit            | xo-expression, llvm       |
+   | <a href="https://github.com/Rconybea/xo-expression">xo-jit</a>        | <a href="https://github.com/Rconybea/xo-pyexpression">xo-pyjit</a>  |          | AST impl            | xo-reflect                |
+   | <a href="https://github.com/Rconybea/xo-reflect">xo-reflect</a>       | <a href="https://github.com/Rconybea/xo-pyreflect">xo-pyreflect</a> |          | c++ reflection      | refcnt, indentlog, subsys |
+   | <a href="https://github.com/Rconybea/xo-flatstring">xo-flatstring</a> |                                                                     |        Y | constexpr strings   |                           |
 
 - <a href="https://github.com/rconybea/cmake-examples">cmake-examples</a>: progressive series of cmake examples, starting from hello world.
 - <a href="https://github.com/rconybea/docker-cpp-builder">docker-cpp-builder</a>: example nix-built docker container for generic c++ builds
