@@ -20,12 +20,17 @@
 ## Projects
 - <a href="https://rconybea.github.io/web/sw/xo.html">XO</a>: a set of cooperating c++ libraries, with python bindings, for simuation and complex event processing.
 
-   | library                                                               | pybind                                                              | hdr-only | description         | dependencies              |
-   |-----------------------------------------------------------------------|---------------------------------------------------------------------|----------|---------------------|---------------------------|
-   | <a href="https://github.com/Rconybea/xo-jit">xo-jit</a>               | <a href="https://github.com/Rconybea/xo-pyjit">xo-pyjit</a>         |          | LLVM jit            | xo-expression, llvm       |
-   | <a href="https://github.com/Rconybea/xo-expression">xo-jit</a>        | <a href="https://github.com/Rconybea/xo-pyexpression">xo-pyjit</a>  |          | AST impl            | xo-reflect                |
-   | <a href="https://github.com/Rconybea/xo-reflect">xo-reflect</a>       | <a href="https://github.com/Rconybea/xo-pyreflect">xo-pyreflect</a> |          | c++ reflection      | refcnt, indentlog, subsys |
-   | <a href="https://github.com/Rconybea/xo-flatstring">xo-flatstring</a> |                                                                     |        Y | constexpr strings   |                           |
+   | library                                                                   | pybind                                                                       | hdr-only | description          | outside deps        |
+   |---------------------------------------------------------------------------|------------------------------------------------------------------------------|----------|----------------------|---------------------|
+   | <a href="https://github.com/Rconybea/xo-jit">xo-jit</a>                   | <a href="https://github.com/Rconybea/xo-pyjit">xo-pyjit</a>                  |          | LLVM jit             | llvm                |
+   | <a href="https://github.com/Rconybea/xo-expression">xo-expression</a>     | <a href="https://github.com/Rconybea/xo-pyexpression">xo-pyexpression</a>    |          | AST impl             |                     |
+   | <a href="https://github.com/Rconybea/xo-websock">xo-websock</a>           | <a href="https://github.com/Rconybea/xo-pwebsock">xo-pywebsock</a>           |          | websocket server     | websockets, jsoncpp |
+   | <a href="https://github.com/Rconybea/xo-kalmanfilter">xo-kalmanfilter</a> | <a href="https://github.com/Rconybea/xo-kalmanfilter">xo-pykalamnfilter</a>  |          | linear kalman filter |                     |
+   | <a href="https://github.com/Rconybea/xo-process">xo-process</a>           | <a href="https://github.com/Rconybea/xo-process">xo-pyprocess</a>            |          | stochastic processes |                     |
+   | <a href="https://github.com/Rconybea/xo-reactor">xo-reactor</a>           | <a href="https://github.com/Rconybea/xo-reactor">xo-pyreactor</a>            |          | queueing system      |                     |
+   | <a href="https://github.com/Rconybea/xo-reflect">xo-reflect</a>           | <a href="https://github.com/Rconybea/xo-pyreflect">xo-pyreflect</a>          |          | c++ reflection       |                     |
+   | <a href="https://github.com/Rconybea/xo-randomgen">xo-randomgen</a>       |                                                                              |        Y | xoshiro256** rng     |                     |
+   | <a href="https://github.com/Rconybea/xo-flatstring">xo-flatstring</a>     |                                                                              |        Y | constexpr strings    |                     |
 
 - <a href="https://github.com/rconybea/cmake-examples">cmake-examples</a>: progressive series of cmake examples, starting from hello world.
 - <a href="https://github.com/rconybea/docker-cpp-builder">docker-cpp-builder</a>: example nix-built docker container for generic c++ builds
