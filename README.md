@@ -27,12 +27,12 @@
    | <a href="https://github.com/Rconybea/xo-websock">xo-websock</a>           | <a href="https://github.com/Rconybea/xo-pwebsock">xo-pywebsock</a>             |          | websocket server       | websockets, jsoncpp |
    | <a href="https://github.com/Rconybea/xo-kalmanfilter">xo-kalmanfilter</a> | <a href="https://github.com/Rconybea/xo-pykalmanfilter">xo-pykalamnfilter</a>  |          | linear kalman filter   | eigen               |
    | <a href="https://github.com/Rconybea/xo-process">xo-process</a>           | <a href="https://github.com/Rconybea/xo-pyprocess">xo-pyprocess</a>            |          | stochastic processes   |                     |
-   | <a href="https://github.com/Rconybea/xo-simulator">xo-simulator</a>       | <a href="https://github.com/Rconybea/xo-pysimulator">xo-pysimulator</a>        |          | event-based simulation |
+   | <a href="https://github.com/Rconybea/xo-simulator">xo-simulator</a>       | <a href="https://github.com/Rconybea/xo-pysimulator">xo-pysimulator</a>        |          | event-based simulation |                     |
    | <a href="https://github.com/Rconybea/xo-reactor">xo-reactor</a>           | <a href="https://github.com/Rconybea/xo-pyreactor">xo-pyreactor</a>            |          | queueing system        |                     |
-   | <a href="https://github.com/Rconybea/xo-reflect">xo-reflect</a>           | <a href="https://github.com/Rconybea/xo-pyreflect">xo-pyreflect</a>            |          | c++ reflection       |                     |
-   | <a href="https://github.com/Rconybea/xo-unit">xo-unit</a>                 | <a href="https://github.com/Rconybea/xo-pyunit">xo-pyunit</a>                  |        Y | constexpr units      |                     |
-   | <a href="https://github.com/Rconybea/xo-randomgen">xo-randomgen</a>       |                                                                                |        Y | xoshiro256** rng     |                     |
-   | <a href="https://github.com/Rconybea/xo-flatstring">xo-flatstring</a>     |                                                                                |        Y | constexpr strings    |                     |
+   | <a href="https://github.com/Rconybea/reflect">xo-reflect</a>              | <a href="https://github.com/Rconybea/xo-pyreflect">xo-pyreflect</a>            |          | c++ reflection         |                     |
+   | <a href="https://github.com/Rconybea/xo-unit">xo-unit</a>                 | <a href="https://github.com/Rconybea/xo-pyunit">xo-pyunit</a>                  |        Y | constexpr units        |                     |
+   | <a href="https://github.com/Rconybea/xo-randomgen">xo-randomgen</a>       |                                                                                |        Y | xoshiro256** rng       |                     |
+   | <a href="https://github.com/Rconybea/xo-flatstring">xo-flatstring</a>     |                                                                                |        Y | constexpr strings      |                     |
 
 - <a href="https://github.com/rconybea/cmake-examples">cmake-examples</a>: progressive series of cmake examples, starting from hello world.
 - <a href="https://github.com/rconybea/docker-cpp-builder">docker-cpp-builder</a>: example nix-built docker container for generic c++ builds
