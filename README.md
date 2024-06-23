@@ -24,7 +24,7 @@
    |---------------------------------------------------------------------------|-------------------------------------------------------------------------------|----------|------------------------|---------------------|
    | <a href="https://github.com/Rconybea/xo-jit">xo-jit</a>                   | <a href="https://github.com/Rconybea/xo-pyjit">xo-pyjit</a>                   |          | LLVM jit               | llvm                |
    | <a href="https://github.com/Rconybea/xo-expression">xo-expression</a>     | <a href="https://github.com/Rconybea/xo-pyexpression">xo-pyexpression</a>     |          | AST impl               |                     |
-   | <a href="https://github.com/Rconybea/xo-websock">xo-websock</a>           | <a href="https://github.com/Rconybea/xo-pwebsock">xo-pywebsock</a>            |          | websocket server       | websockets, jsoncpp |
+   | <a href="https://github.com/Rconybea/xo-websock">xo-websock</a>           | <a href="https://github.com/Rconybea/xo-pywebsock">xo-pywebsock</a>           |          | websocket server       | websockets, jsoncpp |
    | <a href="https://github.com/Rconybea/xo-kalmanfilter">xo-kalmanfilter</a> | <a href="https://github.com/Rconybea/xo-pykalmanfilter">xo-pykalmanfilter</a> |          | linear kalman filter   | eigen               |
    | <a href="https://github.com/Rconybea/xo-process">xo-process</a>           | <a href="https://github.com/Rconybea/xo-pyprocess">xo-pyprocess</a>           |          | stochastic processes   |                     |
    | <a href="https://github.com/Rconybea/xo-simulator">xo-simulator</a>       | <a href="https://github.com/Rconybea/xo-pysimulator">xo-pysimulator</a>       |          | event-based simulation |                     |
