@@ -29,7 +29,7 @@
    | <a href="https://github.com/Rconybea/xo-process">xo-process</a>           | <a href="https://github.com/Rconybea/xo-pyprocess">xo-pyprocess</a>           |          | stochastic processes   |                     |
    | <a href="https://github.com/Rconybea/xo-simulator">xo-simulator</a>       | <a href="https://github.com/Rconybea/xo-pysimulator">xo-pysimulator</a>       |          | event-based simulation |                     |
    | <a href="https://github.com/Rconybea/xo-reactor">xo-reactor</a>           | <a href="https://github.com/Rconybea/xo-pyreactor">xo-pyreactor</a>           |          | queueing system        |                     |
-   | <a href="https://github.com/Rconybea/xo-reflect">reflect</a>              | <a href="https://github.com/Rconybea/xo-pyreflect">xo-pyreflect</a>           |          | c++ reflection         |                     |
+   | <a href="https://github.com/Rconybea/reflect">xo-reflect</a>              | <a href="https://github.com/Rconybea/xo-pyreflect">xo-pyreflect</a>           |          | c++ reflection         |                     |
    | <a href="https://github.com/Rconybea/xo-unit">xo-unit</a>                 | <a href="https://github.com/Rconybea/xo-pyunit">xo-pyunit</a>                 | Y        | constexpr units        |                     |
    | <a href="https://github.com/Rconybea/xo-ratio">xo-ratio</a>               |                                                                               | Y        | constexpr exact ratios |                     |
    | <a href="https://github.com/Rconybea/randomgen">xo-randomgen</a>          |                                                                               | Y        | xoshiro256** rng       |                     |
