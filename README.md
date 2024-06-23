@@ -32,7 +32,7 @@
    | <a href="https://github.com/Rconybea/xo-reflect">xo-reflect</a>           | <a href="https://github.com/Rconybea/xo-pyreflect">xo-pyreflect</a>            |          | c++ reflection         |                     |
    | <a href="https://github.com/Rconybea/xo-unit">xo-unit</a>                 | <a href="https://github.com/Rconybea/xo-pyunit">xo-pyunit</a>                  |        Y | constexpr units        |                     |
    | <a href="https://github.com/Rconybea/xo-ratio">xo-ratio</a>               |                                                                                |        Y | constexpr exact ratios |                     |
-   | <a href="https://github.com/Rconybea/xo-randomgen">xo-randomgen</a>       |                                                                                |        Y | xoshiro256** rng       |                     |
+   | <a href="https://github.com/Rconybea/xo-randomgen">randomgen</a>          |                                                                                |        Y | xoshiro256** rng       |                     |
    | <a href="https://github.com/Rconybea/indentlog">xo-indentlog</a>          |                                                                                |        Y | structured logging     |                     |
    | <a href="https://github.com/Rconybea/xo-flatstring">xo-flatstring</a>     |                                                                                |        Y | constexpr strings      |                     |
 
