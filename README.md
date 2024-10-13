@@ -36,6 +36,7 @@
    | <a href="https://github.com/Rconybea/indentlog">xo-indentlog</a>          |                                                                               | Y        | structured logging     |                     |
    | <a href="https://github.com/Rconybea/xo-flatstring">xo-flatstring</a>     |                                                                               | Y        | constexpr strings      |                     |
 
+- <a href="https://github.com/rconybea/nix-from-scratch">nix-from-scratch</a>: build+install nix+deps from source, without write access to `/usr` or `/nix`
 - <a href="https://github.com/rconybea/cmake-examples">cmake-examples</a>: progressive series of cmake examples, starting from hello world.
 - <a href="https://github.com/rconybea/docker-cpp-builder">docker-cpp-builder</a>: example nix-built docker container for generic c++ builds
 - <a href="https://github.com/rconybea/docker-nix-builder">docker-nix-builder</a>: example nix-built docker container (with nix made available at build time)
